@@ -7,7 +7,7 @@
 - Crontab installed on Ubuntu
 - Kubernetes Cluster
 ## To configure Aws cli
- https://docs.aws.amazon.com/cli/latest/userguide/getting-started-quickstart.html
+ Please refer this link https://docs.aws.amazon.com/cli/latest/userguide/getting-started-quickstart.html
 - Install Aws cli 
 
       apt install awscli
